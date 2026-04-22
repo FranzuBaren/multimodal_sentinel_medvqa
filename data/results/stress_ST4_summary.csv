@@ -1,0 +1,6 @@
+metric,value,ci_lower,ci_upper,n,description
+pure_false_negative_rate,0.30,0.00,0.60,10,verdict=G despite wrong image
+suspicious_partial_rate,0.30,,,10,verdict=P with 0 NOT_SUPPORTED
+semantic_plausibility_failure_rate,0.60,0.30,0.90,10,G OR P-with-0-NOT_SUPPORTED (key finding)
+detection_via_finding_mismatch,0.40,,,10,"at least 1 NOT_SUPPORTED, verdict U or P"
+detection_via_modality_signal,0.30,,,10,modality_match=no or partial

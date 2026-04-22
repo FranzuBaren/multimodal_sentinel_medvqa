@@ -1,0 +1,11 @@
+chain_qid,chain_category,swap_qid,swap_category,verdict,modality_match,n_supported,n_not_supported,n_cannot_assess,classification
+IT0919,tachyarrhythmia,IT0713,STEMI_anterior,G,yes,4,0,1,pure_false_negative
+IT0006,STEMI_anterior,IT0919,tachyarrhythmia,G,yes,6,0,0,pure_false_negative
+IT0006,STEMI_anterior,IT0065,STEMI_inferior,P,yes,4,0,2,suspicious_partial
+IT0919,tachyarrhythmia,IT0064,STEMI_inferior,G,yes,3,0,2,pure_false_negative
+IT0064,STEMI_inferior,IT0455,Afib_arrhythmia,P,partial,1,2,1,detected_via_findings
+IT0972,tachyarrhythmia,IT0064,STEMI_inferior,P,yes,3,0,0,suspicious_partial
+IT0064,STEMI_inferior,IT1053,AV_block,U,partial,1,3,0,detected_via_findings
+IT0006,STEMI_anterior,IT0972,tachyarrhythmia,P,yes,6,0,0,suspicious_partial
+IT1053,AV_block,IT0065,STEMI_inferior,P,yes,1,3,1,detected_via_findings
+IT0006,STEMI_anterior,IT1053,AV_block,U,partial,2,2,2,detected_via_findings

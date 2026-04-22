@@ -1,0 +1,7 @@
+modality,sensitivity_U_on_fake,ci_lower,ci_upper,n
+ECG,1.000,1.000,1.000,36
+OTHER,1.000,1.000,1.000,104
+DERM,1.000,1.000,1.000,28
+XRAY_CXR,1.000,1.000,1.000,52
+CT_MRI,1.000,1.000,1.000,8
+HISTO,1.000,1.000,1.000,8

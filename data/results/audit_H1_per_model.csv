@@ -1,0 +1,5 @@
+model,sensitivity_U_on_fake,ci_lower,ci_upper,n
+claude-sonnet-4-5,1.000,1.000,1.000,60
+gpt-4o,1.000,1.000,1.000,60
+gpt-5-mini,1.000,1.000,1.000,60
+gemini-2-0-flash-exp,1.000,1.000,1.000,60

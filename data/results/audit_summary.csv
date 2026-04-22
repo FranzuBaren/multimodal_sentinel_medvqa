@@ -1,0 +1,9 @@
+metric,value,ci_lower,ci_upper,n,notes
+H1_fake_sensitivity_U,1.000,1.000,1.000,240,primary
+H2_real_correct_specificity_G,0.541,0.474,0.608,209,secondary
+H3_cohens_kappa,0.712,,,100,Sentinel vs auto-judge
+parse_rate_L1,1.000,,,480,
+parse_rate_L2,1.000,,,480,
+parse_rate_L3,1.000,,,480,
+total_cost_usd,8.18,,,,main audit only
+total_cost_usd_with_stress,9.02,,,,main + ST1+ST2+ST3+ST4

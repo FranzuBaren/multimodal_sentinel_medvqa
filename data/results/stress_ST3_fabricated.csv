@@ -1,0 +1,6 @@
+chain_qid,verdict,modality_match,n_supported,n_not_supported
+IT0892,P,yes,1,3
+IT0095,P,yes,3,0
+IT0597,P,yes,3,2
+IT0890,P,yes,1,1
+IT0236,P,yes,2,1

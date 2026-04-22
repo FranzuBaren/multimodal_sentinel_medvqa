@@ -1,0 +1,4 @@
+verdict,count,mean_chars,median_chars,min_chars,max_chars
+G,113,795,626,152,1774
+P,83,715,559,181,4134
+U,13,890,474,291,1860

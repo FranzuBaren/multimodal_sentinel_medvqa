@@ -1,0 +1,5 @@
+sentinel_verdict,autojudge_G,autojudge_P,autojudge_U,row_total
+G,20,3,1,24
+P,9,10,2,21
+U,0,2,53,55
+col_total,29,15,56,100

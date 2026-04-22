@@ -1,0 +1,7 @@
+condition,modality_match,count
+fake,no,194
+fake,partial,46
+fake,yes,0
+real_correct,yes,206
+real_correct,partial,3
+real_correct,no,0
